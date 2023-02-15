@@ -1,2 +1,2 @@
 #!/bin/bash
-tail a & n iacta is iacta
+tail -n 1 iacta >> iacta
